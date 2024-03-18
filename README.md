@@ -1,4 +1,4 @@
-![image](https://github.com/aeoebe/Transformer/assets/121885500/fb2b95d4-accc-4f01-9b6d-0aa84283e93a)# Transformer
+# Transformer
 ### Embedding
 다음 공식으로 positional embedding을 구현한다.
 ![positional encoding](https://github.com/aeoebe/Transformer/assets/121885500/4c8e4e59-dce2-4301-b58f-677b4667d51d)   
